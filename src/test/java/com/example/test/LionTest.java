@@ -1,4 +1,4 @@
-package com.example;
+package com.example.test;
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
 import org.junit.Test;
@@ -7,6 +7,8 @@ import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
 import java.util.Arrays;
 import java.util.List;
+import com.example.Feline;
+import com.example.Lion;
 
 @RunWith(MockitoJUnitRunner.class)
 public class LionTest {

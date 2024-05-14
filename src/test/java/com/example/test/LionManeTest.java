@@ -1,8 +1,10 @@
-package com.example;
+package com.example.test;
 import static org.junit.Assert.*;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
+import com.example.Feline;
+import com.example.Lion;
 
 import java.util.Arrays;
 import java.util.Collection;
